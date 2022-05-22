@@ -52,6 +52,8 @@ if __name__ == '__main__':
     sofifa = 'https://sofifa.com/'
     offset_url = '?offset='
     offset = 0
+
+    # This scraper goes to the player details page for each page.
     numOfPlayersToScrap = 60 
     
     players = []
