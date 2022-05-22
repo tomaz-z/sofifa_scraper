@@ -1,14 +1,14 @@
 # SoFIFA scraper
 
-A tool for scraping player information from https://sofifa.com.
+A simple tool for scraping data from https://sofifa.com.
 
-# Prequisites
+## Prequisites
 
-* Python 3.10
-* pandas
-* Beautiful Soup
+* `Python 3.10`
+* `pandas`
+* `Beautiful Soup`
 
-# Usage
+## Usage
 
 ```
 python3 scraper.py [-c]
